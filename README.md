@@ -30,12 +30,6 @@
 
 ###
 
-<h1 align="center">What I'm working on right now:</h1>
-
-###
-
-<h3 align="left">🐍 API Development with Python: I'm refining a Task Manager API, moving from a basic CRUD to a professional version with JWT authentication and data validation.<br><br>📡 Network Security: I'm deepening my knowledge of protocols and port scanning, using Python to automate device reconnaissance. 🔍<br><br>📜 Certificaciones: I'm on my way to getting certified in Cisco Networking, NDG Linux, and Fortinet's FCF level.</h3>
-
 ###
 
 <br clear="both">
