@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi!, I'm a Cybersecurity Enthusiast and Backend Developer. 👨‍💻🛡️</h1>
+<h1 align="left">Hi! I'm a cybersecurity engineer and backend developer. 👨‍💻🛡️</h1>
 
 ###
 
